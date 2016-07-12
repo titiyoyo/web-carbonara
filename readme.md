@@ -1,0 +1,1 @@
+Setting up a bunch of gulp tasks can be very time consuming, delaying the start of your real dev, that's why I created this repo, to share your package.json and gulfile.js and let others profit from own experience.
